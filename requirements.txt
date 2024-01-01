@@ -3,3 +3,12 @@ numpy
 pandas
 pydeck
 streamlit
+google-generativeai
+python-dotenv
+langchain
+faiss-cpu
+langchain_google_genai
+python-dotenv 
+requests 
+beautifulsoup4 
+langchain_community 
