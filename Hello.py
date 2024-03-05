@@ -14,7 +14,6 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GENAI_API_KEY"))
 
 
-LOGGER = get_logger(__name__)
 st.set_page_config(
       page_title="Multi Modal AI",
       page_icon="🤖",

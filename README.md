@@ -1,7 +1,6 @@
-# Welcome to streamlit
+# Welcome to Multimodal AI
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This is the app for demonstrating the capabilities of **Multimodal AI** using `Gemini Models` to interact with both images and text data. 
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+By utilizing `Gemini Models`, we merge the benefits of NLP (Natural Language Processing) and Computer Vision, improving the efficiency and accuracy of our AI predictions and analysis. 
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
