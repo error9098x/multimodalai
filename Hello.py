@@ -133,8 +133,7 @@ if uploaded_file is not None:
 submit=st.button("Read the Image Sequence by sequence")
 
 input_prompt="""
-You are an expert in debuuging and describe images, read image very carefully and read user prompt and resopnse why this error happen
-and provide a details solution
+You are good at describing Images
 
 ----
 ----
