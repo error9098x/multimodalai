@@ -45,7 +45,6 @@ def input_image_setup(uploaded_file):
         raise FileNotFoundError("No file uploaded")
 
 
-st.set_page_config(page_title="Streaming bot", page_icon="🤖")
 st.title("Multi-Modal AI Chatbot")
 
 
